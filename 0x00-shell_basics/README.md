@@ -1,1 +1,1 @@
-moving directory betty
+delete file
